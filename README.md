@@ -22,7 +22,7 @@
 ## クイックスタート
 
 ```bash
-git clone https://github.com/yourname/kintai-api
+git clone https://github.com/wjdartmouth/kintai-api
 cd kintai-api
 go run main.go
 # → http://localhost:8084
